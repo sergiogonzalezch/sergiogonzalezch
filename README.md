@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergiogonzalezch
 - 👀 I’m interested in ... Web development and data science
-- 🌱 I’m currently learning ... wed devolmente frontend and backend in courses and bootcamps
+- 🌱 I’m currently learning ... web development frontend and backend in courses and bootcamps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
