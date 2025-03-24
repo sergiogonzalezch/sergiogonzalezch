@@ -13,10 +13,8 @@ Bases de datos: SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
 
 Control de versiones: Git, GitHub
 
-Otras herramientas: Docker, API REST, Testing Unitario
-
 🤝 Colaboraciones
-Estoy abierto a colaborar en proyectos de desarrollo web e interfaces interactivas.
+Estoy abierto a colaborar en proyectos de desarrollo web.
 
 📫 Contáctame
 📧 Email: serchgonzalez1997@gmail.com
