@@ -19,9 +19,7 @@ Estoy abierto a colaborar en proyectos de desarrollo web.
 📫 Contáctame
 📧 Email: serchgonzalez1997@gmail.com
 
-🔗 LinkedIn
-
-💻 GitHub
+🔗 LinkedIn: https://www.linkedin.com/in/sergio-guadalupe-gonzalez-chavez-9a94a81b4/
 
 <!---
 sergiogonzalezch/sergiogonzalezch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
