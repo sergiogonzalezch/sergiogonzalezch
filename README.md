@@ -18,8 +18,6 @@ Apasionado por la **automatización**, **optimización de datos** y el aprendiza
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
 | [CheckGo](https://github.com/sergiogonzalezch/SistemaPrestramos) | Sistema de gestión de préstamos de equipos desarrollado en solitario, cubriendo todo el ciclo de vida del software. | PHP, JS, MySQL, Bootstrap |
-| *Prevalidador (Privado)* | Visualización de datos aduaneros con FastAPI y React. | Python, FastAPI, React |
-| *Consultorio Dental Rejón (Privado)* | Sistema de administración de sucursales y almacenes. | Django REST, Next.js |
 
 ---
 
