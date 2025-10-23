@@ -1,27 +1,29 @@
-👋 ¡Hola! Soy Sergio González Chávez
-💻 Desarrollador Web | con stack frontend y backend
+# 👋 ¡Hola! Soy Sergio Guadalupe González Chávez  
+💻 Backend / Desarrollador de Software | Python | FastAPI | Django | React | MongoDB  
 
-🚀 Sobre mí
-Soy Ingeniero en Sistemas Computacionales con experiencia en desarrollo web, tanto en frontend como en backend. Actualmente me especializo en frontend, creando interfaces dinámicas e interactivas con tecnologías modernas. Me apasiona la inteligencia artificial y su integración en el desarrollo web, explorando su aplicación en proyectos innovadores.
+Soy Ingeniero en Sistemas Computacionales con experiencia en desarrollo **Backend y Frontend**, especializado en **APIs RESTful** usando **Python (FastAPI, Django REST Framework)**.  
+Apasionado por la **automatización**, **optimización de datos** y el aprendizaje constante en **IA aplicada**.
 
-🔧 Tecnologías y habilidades
-Frontend: React, TypeScript, PrimeReact, Bootstrap
+---
 
-Backend (conocimientos básicos): Python (Django, FastAPI), .NET
+### 🚀 Tecnologías y herramientas
+- **Backend:** Python (FastAPI, Django, Flask), Node.js  
+- **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+)  
+- **Bases de datos:** MongoDB, MySQL, SQL Server  
+- **Otros:** Git, GitHub, GitLab, Postman, VSCode, Linux  
 
-Bases de datos: SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
+---
 
-Control de versiones: Git, GitHub
+### 🧠 Proyectos Destacados
+| Proyecto | Descripción | Tecnologías |
+|-----------|--------------|--------------|
+| [CheckGo](https://github.com/sergiogonzalezch/SistemaPrestramos) | Sistema de gestión de préstamos de equipos desarrollado en solitario, cubriendo todo el ciclo de vida del software. | PHP, JS, MySQL, Bootstrap |
+| *Prevalidador (Privado)* | Visualización de datos aduaneros con FastAPI y React. | Python, FastAPI, React |
+| *Consultorio Dental Rejón (Privado)* | Sistema de administración de sucursales y almacenes. | Django REST, Next.js |
 
-🤝 Colaboraciones
-Estoy abierto a colaborar en proyectos de desarrollo web.
+---
 
-📫 Contáctame
-📧 Email: serchgonzalez1997@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/sergio-guadalupe-gonzalez-chavez-9a94a81b4/
-
-<!---
-sergiogonzalezch/sergiogonzalezch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Contacto
+📍 México (Remoto)  
+📧 [serchgonzalez1997@gmail.com](mailto:serchgonzalez1997@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sergio-guadalupe-gonzalez-chavez-9a94a81b4/)  
