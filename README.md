@@ -10,7 +10,7 @@ Apasionado por la **automatización**, **optimización de datos** y el aprendiza
 - **Backend:** Python (FastAPI, Django, Flask), Node.js  
 - **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+)  
 - **Bases de datos:** MongoDB, MySQL, SQL Server  
-- **Otros:** Git, GitHub, GitLab, Postman, VSCode, Linux  
+- **Otros:** Git, GitHub, GitLab, Postman, VSCode, Linux, Docker
 
 ---
 
