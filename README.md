@@ -1,50 +1,50 @@
 # Sergio Guadalupe González Chávez  
 Backend Engineer | AI-Oriented Developer | Python | FastAPI | RAG Systems  
 
-Ingeniero en Sistemas Computacionales enfocado en el desarrollo de sistemas backend escalables y APIs de alto rendimiento.  
+Computer Systems Engineer focused on building scalable backend systems and high-performance APIs.  
 
-Actualmente en proceso de especialización en **inteligencia artificial aplicada**, con enfoque en **LLMs y arquitecturas RAG (Retrieval-Augmented Generation)**, desarrollando proyectos prácticos orientados a la integración de estos modelos en escenarios reales.  
+Currently specializing in **applied artificial intelligence**, with a focus on **LLMs and Retrieval-Augmented Generation (RAG)** architectures, developing practical projects aimed at integrating these models into real-world applications.  
 
-Experiencia construyendo servicios backend, diseñando arquitecturas orientadas a datos y desarrollando soluciones completas con un enfoque en mantenibilidad, eficiencia y escalabilidad.
+Experience designing backend services, data-oriented architectures, and end-to-end solutions with an emphasis on maintainability, efficiency, and scalability.
 
 ---
 
-## Stack Tecnológico
+## Tech Stack
 - **Backend:** Python (FastAPI, Django, Flask), Node.js  
-- **AI / Data:** RAG (en aprendizaje aplicado), NLP, integración de LLMs  
+- **AI / Data:** RAG (applied learning), NLP, LLM integration  
 - **Frontend:** React, Next.js, TypeScript  
-- **Bases de datos:** MongoDB, MySQL, SQL Server  
-- **Infraestructura y herramientas:** Docker, Linux, Git, APIs REST, Postman  
+- **Databases:** MongoDB, MySQL, SQL Server  
+- **Infrastructure & Tools:** Docker, Linux, Git, REST APIs, Postman  
 
 ---
 
-## Proyectos Relevantes
+## Relevant Projects
 
 ### [LoreMaster](https://github.com/sergiogonzalezch/loremaster)
-Plataforma experimental basada en arquitectura **RAG (Retrieval-Augmented Generation)** orientada a la generación estructurada de contenido mediante IA.  
+Experimental platform based on **Retrieval-Augmented Generation (RAG)** architecture for structured content generation using AI.  
 
-Este proyecto representa una implementación práctica de conceptos en aprendizaje, incluyendo recuperación contextual, organización de información y generación asistida de entidades (mundos y personajes). Desarrollado bajo un enfoque de **exploración técnica y aprendizaje aplicado**, priorizando la comprensión de pipelines de IA y su integración en sistemas backend.
+This project represents a hands-on implementation of concepts currently being developed, including contextual retrieval, knowledge organization, and assisted generation of complex entities (worlds and characters). Built with a focus on **technical exploration and applied learning**, emphasizing understanding of AI pipelines and their integration into backend systems.
 
-**Tecnologías:** Python, RAG, NLP, LLMs  
+**Technologies:** Python, RAG, NLP, LLMs  
 
 ---
 
 ### [CheckGo](https://github.com/sergiogonzalezch/SistemaPrestramos)
-Sistema backend para la gestión de préstamos, desarrollado de forma integral cubriendo análisis, diseño e implementación. Incluye administración de usuarios, inventario y control de operaciones.
+Backend system for equipment loan management, developed end-to-end covering analysis, design, and implementation. Includes user management, inventory control, and operational workflows.
 
-**Tecnologías:** PHP, JavaScript, MySQL  
-
----
-
-## Enfoque Profesional
-- Desarrollo de APIs robustas y escalables  
-- Integración progresiva de modelos de IA en aplicaciones reales  
-- Diseño de arquitecturas basadas en datos  
-- Aprendizaje continuo aplicado a problemas prácticos  
+**Technologies:** PHP, JavaScript, MySQL  
 
 ---
 
-## Contacto
-México (Remoto)  
+## Professional Focus
+- Building robust and scalable APIs  
+- Progressive integration of AI models into real-world systems  
+- Designing data-driven architectures  
+- Continuous, hands-on learning applied to practical problems  
+
+---
+
+## Contact
+Mexico (Remote)  
 Email: serchgonzalez1997@gmail.com  
 LinkedIn: https://www.linkedin.com/in/sergio-guadalupe-gonzalez-chavez-9a94a81b4/  
