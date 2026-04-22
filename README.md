@@ -1,27 +1,31 @@
-# 👋 ¡Hola! Soy Sergio Guadalupe González Chávez  
-💻 Backend / Desarrollador de Software | Python | FastAPI | Django | React | MongoDB  
+Sergio Guadalupe González Chávez
 
-Soy Ingeniero en Sistemas Computacionales con experiencia en desarrollo **Backend y Frontend**, especializado en **APIs RESTful** usando **Python (FastAPI, Django REST Framework)**.  
-Apasionado por la **automatización**, **optimización de datos** y el aprendizaje constante en **IA aplicada**.
+Backend Engineer | AI-Oriented Developer | Python | FastAPI | RAG Systems
 
----
+Ingeniero en Sistemas Computacionales enfocado en el desarrollo de sistemas backend escalables y en la integración de modelos de inteligencia artificial en aplicaciones reales. Experiencia en el diseño de APIs de alto rendimiento, arquitecturas orientadas a servicios y construcción de pipelines de datos que combinan lógica de negocio con capacidades de IA.
 
-### 🚀 Tecnologías y herramientas
-- **Backend:** Python (FastAPI, Django, Flask), Node.js  
-- **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+)  
-- **Bases de datos:** MongoDB, MySQL, SQL Server  
-- **Otros:** Git, GitHub, GitLab, Postman, VSCode, Linux, Docker
+Interés especializado en sistemas basados en LLMs, Retrieval-Augmented Generation (RAG), con enfoque en llevar estos modelos a entornos productivos.
 
----
+Stack Tecnológico
+Backend: Python (FastAPI, Django, Flask), Node.js
+AI / Data: RAG, NLP, integración de modelos LLM
+Frontend: React, Next.js, TypeScript
+Bases de datos: MongoDB, MySQL, SQL Server
+Infraestructura y herramientas: Docker, Linux, Git, APIs REST, Postman
+Proyectos Relevantes
+Proyecto	Descripción	Tecnologías
+LoreMaster
+	Plataforma basada en arquitectura RAG para la generación estructurada de contenido mediante IA. Implementa recuperación contextual, orquestación de modelos y diseño de pipelines para la creación de entidades complejas (mundos, personajes), con enfoque en consistencia y escalabilidad del conocimiento.	Python, RAG, NLP, LLMs
+CheckGo
+	Sistema backend para la gestión de préstamos, desarrollado bajo principios de modularidad y control de datos. Incluye administración de usuarios, inventario y flujos operativos, cubriendo el ciclo completo de desarrollo.	PHP, JavaScript, MySQL
+Enfoque Profesional
+Desarrollo de APIs robustas y escalables
+Integración de modelos de IA en sistemas productivos
+Diseño de arquitecturas basadas en datos y recuperación contextual
+Optimización y automatización de procesos
+Contacto
 
-### 🧠 Proyectos Destacados
-| Proyecto | Descripción | Tecnologías |
-|-----------|--------------|--------------|
-| [CheckGo](https://github.com/sergiogonzalezch/SistemaPrestramos) | Sistema de gestión de préstamos de equipos desarrollado en solitario, cubriendo todo el ciclo de vida del software. | PHP, JS, MySQL, Bootstrap |
+México (Remoto)
+serchgonzalez1997@gmail.com
 
----
-
-### 📫 Contacto
-📍 México (Remoto)  
-📧 [serchgonzalez1997@gmail.com](mailto:serchgonzalez1997@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sergio-guadalupe-gonzalez-chavez-9a94a81b4/)  
+LinkedIn: https://www.linkedin.com/in/sergio-guadalupe-gonzalez-chavez-9a94a81b4/
